@@ -1,4 +1,4 @@
-# same-img-remover
+# Identical Image Remover
 
 ![demo](demo.gif)
 

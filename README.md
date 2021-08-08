@@ -2,6 +2,7 @@
 
 ![demo](demo.gif)
 
+### build
 ```bash
-  ./run.sh
+  ./build.sh
 ```
